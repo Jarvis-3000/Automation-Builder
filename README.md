@@ -1,3 +1,10 @@
+# Instructions to Run the Program
+- Install node modules => npm install
+- Run the program => npm start
+- Install fastapi and uvicorn
+- Run the backend => uvicorn main:app --reload
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
