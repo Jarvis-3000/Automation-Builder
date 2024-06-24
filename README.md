@@ -1,8 +1,19 @@
-# Instructions to Run the Program
-- Install node modules => npm install
-- Run the program => npm start
-- Install fastapi and uvicorn
-- Run the backend => uvicorn main:app --reload
+# React Flow Automation Builder
+Welcome to the React Flow Automation Builder! This project leverages the power of React and React Flow to provide a visual and intuitive interface for creating automation workflows. Whether you're looking to simulate complex data transformations or simple input-output operations, this application offers a versatile platform to connect and configure various nodes seamlessly.
+
+# Key Features
+Node Variety: The application supports a range of node types including:
+
+- Input: Initiate your workflow with data input.
+- Output: Define the end-point for your data.
+- Text: Manipulate and process textual data.
+- Transform: Apply transformations to your data for further processing.
+- Merge: Combine multiple data streams into one.
+- Download: Enable the download of processed data.
+- Intuitive Interface: The drag-and-drop functionality powered by React Flow allows you to effortlessly create and modify your automation workflows.
+
+# Mimicked Automation: 
+Designed as a frontend-only application, it simulates automation processes without needing a backend, making it lightweight and easy to deploy.
 
 
 # Getting Started with Create React App
