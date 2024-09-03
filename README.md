@@ -1,6 +1,9 @@
 # React Flow Automation Builder
 Welcome to the React Flow Automation Builder! This project leverages the power of React and React Flow to provide a visual and intuitive interface for creating automation workflows. Whether you're looking to simulate complex data transformations or simple input-output operations, this application offers a versatile platform to connect and configure various nodes seamlessly.
 
+![image](https://github.com/user-attachments/assets/5090f72b-aca7-4ecf-845b-c7ee3c3ea586)
+
+
 # Key Features
 Node Variety: The application supports a range of node types including:
 
